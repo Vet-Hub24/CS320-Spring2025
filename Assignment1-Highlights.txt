@@ -1,0 +1,26 @@
+# CS320-Spring2025
+Jake Gagnon
+Date: January 17, 2025
+Assignment #1
+
+
+ MyCookBookApp
+Developed a web application using ASP.NET Core MVC.
+Features:
+Add, edit, view, and delete recipes.
+User-friendly interface styled with Bootstrap.
+Organized project structure with Controllers, Models, and Views.
+
+Testing:
+Validated the application's functionality through manual testing in a browser.
+
+ MyCookBookApi
+Built a RESTful API using ASP.NET Core Web API.
+Features:
+Endpoint to retrieve recipe data (GET /api/recipe).
+Sample recipe includes fields like id, name, category, steps, and ingredients.
+
+Response format: JSON.
+
+Testing:
+Verified API functionality using Postman.
